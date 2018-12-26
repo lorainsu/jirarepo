@@ -20,3 +20,4 @@ mod 18 test jenkins & jira
 mod 19 test jenkins & jira
 mod 20 test jenkins & jira
 mod 21 test jenkins & jira
+mod 22 test jenkins & jira
